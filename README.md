@@ -78,6 +78,7 @@ SSD：WD BK SN850 1TB
 From default EZ Mode screen, enable X.M.P. then select Advanced Mode (F7) as shown: 
 BIOS 01 EZ Mode.jpg
 
+![image](https://github.com/xmple067/ASUS-ProArt-Z690-Hackintosh-OC8.0/blob/main/BIOS%2001%20EZ%20Mode.jpg)
 
 - Exit → Load Optimized Defaults
 - Advanced → CPU Configuration
