@@ -12,6 +12,11 @@ GPU：Radeon™ RX 6900 XT 16G
 SSD：WD BK SN850 1TB
 
 
+## BIOS高级模式 / ASUS Z690 ProArt Creator WiFi BIOS Advanced Mode
+Open Bios Complete list
+- In the default EZ Mode screen, enable XMP, then select Advanced Mode (F7) as shown
+![image](https://github.com/xmple067/ASUS-ProArt-Z690-Hackintosh-OC8.0/blob/main/BIOS%2001%20EZ%20Mode.jpg)
+
 
 ## BIOS设定 / ASUS Z690 ProArt Creator WiFi BIOS Setting
 
